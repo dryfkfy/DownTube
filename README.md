@@ -12,5 +12,5 @@ We currently do not provide any support, maintenance, or help. This program was 
 # License & Package License
 DownTube is licensed under the BSD 2-Clause License. DownTube uses libvideo or VideoLibrary. You can find the respective license files and repository below this text.
 
-DownTube License: https://github.com/dryfkfy/DownTube/blob/main/LICENSE
-VideoLibrary / libvideo License: https://github.com/omansak/libvideo/blob/master/LICENSE
+- DownTube License: https://github.com/dryfkfy/DownTube/blob/main/LICENSE
+- VideoLibrary / libvideo License: https://github.com/omansak/libvideo/blob/master/LICENSE
