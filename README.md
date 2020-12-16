@@ -12,7 +12,8 @@ DownTube currently doesn't have an installer. You will need to unzip the zip fil
 We currently do not provide any support, maintenance, or help. This program was made with simplicity and if you are having trouble following the program we can't help you. I'm a developer currently maintaining work I have to do and don't have enough time for customer support.
 
 # License & Package License
-DownTube is licensed under the BSD 2-Clause License. DownTube uses libvideo or VideoLibrary. You can find the respective license files and repository below this text.
+DownTube is licensed under the BSD 2-Clause License. DownTube uses libvideo or VideoLibrary. DownTube also uses Newtonsoft.JSON which is licensed under the MIT License. You can find the respective license files and repository below this text.
 
 - DownTube License: https://github.com/dryfkfy/DownTube/blob/main/LICENSE
 - VideoLibrary / libvideo License: https://github.com/omansak/libvideo/blob/master/LICENSE
+- Newtonsoft.JSON: https://github.com/JamesNK/Newtonsoft.Json/blob/master/LICENSE.md
