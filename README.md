@@ -1,6 +1,8 @@
 # DownTube
 DownTube is a tool that lets you easily download YouTube videos and convert them to .MP3 or .MP4. This tool is made for ease and use and has full respect to home-users and advanced-users. This tool is very simple to use and requires no effort to learn. The source code is also available for anyone to view and learn from.
 
+https://imgur.com/a/GeEwhzu
+
 # Installation
 DownTube currently doesn't have an installer. You will need to unzip the zip file holding all the contents and make damn sure you keep all files including .DLL files and everything with the program in the same directory as the executable or else it won't work and DownTube will give an error. You can find the current release of the program here:
 
